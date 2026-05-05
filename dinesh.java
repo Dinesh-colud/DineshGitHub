@@ -53,10 +53,10 @@ public class dinesh {
         @Override
         public void run(){
             ArrayList<String> st = new ArrayList<>();
-            st.add("Bhai");
+            st.add("Smart Boy");
+            st.add("Chaturi");
             st.add("Ho");
             st.add("Tum");
-            st.add("Mere");
             for(String val : st){
                 System.out.println(val);
                 try{
